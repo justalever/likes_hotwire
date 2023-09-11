@@ -1,0 +1,5 @@
+--- !ruby/object:Railsui::Configuration
+application_name: Rails UI
+css_framework: tailwind
+support_email: support@example.com
+theme: hound
