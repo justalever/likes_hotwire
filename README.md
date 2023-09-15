@@ -22,6 +22,6 @@ All the links:
 
 - https://railsui.com - Latest project
 - https://web-crunch.com - My long running blog/publication
-- https://twitter.com/webcrunchblog - Web-Crunch on X
-- https://twitter.com/railsui_ - Rails UI on X
-- https://twitter.com/justalever - Personal on X
+- [Web-Crunch on X](https://twitter.com/webcrunchblog)
+- [Rails UI on X](https://twitter.com/railsui_)
+- [Personal on X](https://twitter.com/justalever)
